@@ -422,9 +422,8 @@ https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTg5NzMwIiwic2lwIjoiNDUuMjMyLjAuMTYiLCJwYXRoIjoiL2xpdmUvYzdlZHMvTGFfTmFjaW9uL1NBX0xpdmVfZGFzaF9lbmNfd2wvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDhjMjA3MDZjMDEzYThiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjU4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.kcxGyoLYFOJmqXaJLkTm0DicP6Upw1ZsmbgpV0o7_7IFXPKFVk_drRSUfS802qD1kIsLGcgyZv6FkEz6CUqXzQ==/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd?|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Zzyx23m5/disneyjr.png" group-title="",Disney Jr.1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyJR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
 https://cdn-py.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
 
