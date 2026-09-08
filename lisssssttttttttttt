@@ -421,6 +421,13 @@ https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=138981ed5f75527232593af4c92c9007:0f05c78bd7e8bc3e9e0f708c1424f34b
 https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTg5NzMwIiwic2lwIjoiNDUuMjMyLjAuMTYiLCJwYXRoIjoiL2xpdmUvYzdlZHMvTGFfTmFjaW9uL1NBX0xpdmVfZGFzaF9lbmNfd2wvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDhjMjA3MDZjMDEzYThiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjU4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.kcxGyoLYFOJmqXaJLkTm0DicP6Upw1ZsmbgpV0o7_7IFXPKFVk_drRSUfS802qD1kIsLGcgyZv6FkEz6CUqXzQ==/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd?|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Zzyx23m5/disneyjr.png" group-title="",Disney Jr.1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyJR
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Zzyx23m5/disneyjr.png" group-title="",Disney Jr.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
@@ -1600,7 +1607,9 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd?|
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestleague.world/img/gh.webp" group-title="",Gran Hermano Cámara 24HS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3aa88656189138c299b72ba64dd3802e:4a4657f9d5d6b881b1d60788c6ea63ee
-#https://46925e69ccf445e09667cb17c8bb4f2c.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1282/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd?da=1
+#
+https://46925e69ccf445e09667cb17c8bb4f2c.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1282/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd
+https://46925e69ccf445e09667cb17c8bb4f2c.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1282/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd?da=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestleague.world/img/gh.webp" group-title="",Gran Hermano Cámara 24HS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
