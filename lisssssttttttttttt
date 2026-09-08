@@ -426,7 +426,7 @@ https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyJR
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-
+https://cdn-py.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Zzyx23m5/disneyjr.png" group-title="",Disney Jr.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
