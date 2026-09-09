@@ -735,7 +735,7 @@ https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cG5F8Z9/Dise-o-sin-t-tulo-4.png" group-title="Deportes",TyC Sports Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3997f2233c793096a4cefb8c1727e214:1c311b069dbcd31ce8e62a6e7e2433eb
+#KODIPROP:inputstream.adaptive.license_key=3d7afc43dab940d699b61466b245369f:712b5165ff990156e6c9e580b0b4df59
 https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTg5NzMwIiwic2lwIjoiNDUuMjMyLjAuMTYiLCJwYXRoIjoiL2xpdmUvYzdlZHMvTGFfTmFjaW9uL1NBX0xpdmVfZGFzaF9lbmNfd2wvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDhjMjA3MDZjMDEzYThiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjU4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.kcxGyoLYFOJmqXaJLkTm0DicP6Upw1ZsmbgpV0o7_7IFXPKFVk_drRSUfS802qD1kIsLGcgyZv6FkEz6CUqXzQ==/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tMjj4bhd/189.png" group-title="Deportes",LPF Play 1
@@ -1124,12 +1124,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ds9ertnhrl/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Megapix
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=:9417daf3a25dff3f78d76c1ebb550654
+#KODIPROP:inputstream.adaptive.license_key=cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd?|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Multishow
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=5a93ff790eca6f86ad6adb53929fe1c4:6664fa23d82cbfeaf5cdb2d662bec3b3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd?|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Premiere 1
@@ -1145,22 +1145,22 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Premiere br
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Premiere 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd?|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Premiere 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Premiere 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|origin=https://www.primevideo.com&referer=https://www.primevideo.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Premiere 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1620,4 +1620,5 @@ https://3a4dc407f9124a27ad277c375ec7ea5f.mediatailor.us-east-1.amazonaws.com/v1/
 #http://vod.cam:8080/live/stello/s1stemas.13579/584120.m3u8|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestleague.world/img/gh.webp" group-title="",Gran Hermano Multicámara
+http://supremeplay.fun/live/LGTV9454/4469787491/1193002.m3u8
 http://supremeplay.fun/live/LGTV9454/4469787491/1193002.m3u8|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
